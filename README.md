@@ -41,6 +41,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sumitjain236/sumitjain236/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sumitjain236&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
