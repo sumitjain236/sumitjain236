@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sumitjain236/sumitjain236/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sumitjain236/sumitjain236/blob/7540974b307e0797c2bead726f9039c8ef1b6c0b/snake.svg" alt="Snake animation" />
 
 ###
 
